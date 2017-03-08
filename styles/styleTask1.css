@@ -1,0 +1,22 @@
+body {
+font-family: 'Lobster', cursive;
+font-family: 'Indie Flower', cursive;
+background: linear-gradient(to right,  #20395E, #02C3E5);*/
+}
+div {
+border: 4px double black;
+padding: 5px;
+float: left;
+width: 150px;
+height: 200px;
+clear: left;
+margin-left:15px;
+box-shadow: 10px 10px 5px black;
+display: block;
+background: linear-gradient(to right,  #ede574, #EBF2C9);
+}
+a{
+  /*задайте background для а, а також box-shadow і transform, спочатку для всіх однаково*/
+  box-shadow: 10px 10px 5px black;
+  transform: rotate(50px;);
+}
